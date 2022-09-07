@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: Dan M.
+#Author: VCM.
 #Created: 08/09/21
 #Last Modified: 08/09/21
 
